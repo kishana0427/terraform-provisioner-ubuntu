@@ -1,6 +1,6 @@
 provider "aws" {
-	access_key = "AKIAWVHKO7YHPQ75RSOY"
-	secret_key = "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"
+	access_key = "=========================="
+	secret_key = "=========================="
 	region = "ap-south-1"
 }
 resource "aws_instance" "myUbuntuServer" {
